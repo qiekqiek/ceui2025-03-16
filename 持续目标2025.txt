@@ -1,0 +1,21 @@
+- 工作
+	- 专代考试
+	- 参考模板
+	- 技术手册
+	- 出舒适区
+		- 电学
+		- 软件
+		- 化学
+- 学习
+	- 阅读
+		- 读书
+		- 笔记
+	- 软件
+		- Obsidian
+			- IOTO
+			- Templater
+			- Quickadd
+			- Dataview
+		- Airtable
+		- Ai
+			- 有了 api，可以学编程了
